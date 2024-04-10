@@ -1,0 +1,295 @@
+title,type,release_year,age_certification,runtime,genres,production_countries,imdb_score
+PAW Patrol: The Movie,MOVIE,2021,G,90,"['animation', 'family', 'fantasy', 'scifi', 'action', 'comedy', 'drama']",['US'],6.1
+Crossed,MOVIE,2021,G,80,"['drama', 'thriller', 'music', 'comedy', 'romance']",['US'],6.1
+Secret Headquarters,MOVIE,2022,PG,104,"['action', 'scifi', 'family', 'comedy']",['US'],5.1
+The Addams Family 2,MOVIE,2021,PG,93,"['animation', 'fantasy', 'horror', 'family', 'scifi', 'romance', 'comedy']","['US', 'CA']",5.4
+Sonic the Hedgehog,MOVIE,2020,PG,100,"['comedy', 'action', 'family', 'fantasy', 'scifi', 'animation', 'crime']","['US', 'JP']",6.5
+Sonic the Hedgehog 2,MOVIE,2022,PG,122,"['comedy', 'action', 'family', 'fantasy', 'scifi', 'animation']","['JP', 'US']",6.5
+Rumble,MOVIE,2021,PG,95,"['comedy', 'drama', 'romance', 'animation', 'family', 'fantasy', 'sport']",['US'],5.9
+The SpongeBob Movie: Sponge on the Run,MOVIE,2020,PG,91,"['comedy', 'family', 'fantasy', 'scifi', 'animation']","['US', 'KR']",5.9
+Clifford the Big Red Dog,MOVIE,2021,PG,95,"['comedy', 'family', 'fantasy', 'scifi', 'romance', 'animation', 'drama']","['GB', 'US', 'CA']",5.9
+76 Days,MOVIE,2020,PG,93,"['documentation', 'drama']","['CN', 'US']",7.1
+Destination Paris,MOVIE,2022,PG,92,"['documentation', 'sport']",['US'],5.1
+Destination Porto: The Unimaginable Journey,MOVIE,2021,PG,85,['documentation'],['US'],7.7
+Iris Warriors,MOVIE,2022,PG,107,"['drama', 'family', 'fantasy']",['GB'],4.8
+Come Away,MOVIE,2020,PG,94,"['fantasy', 'drama']","['US', 'GB']",5.7
+"The Day the Music Died: The Story of Don McLean's ""American Pie""",MOVIE,2022,PG,94,"['music', 'documentation']",['US'],7.1
+Mariah Carey: Merry Christmas to All!,MOVIE,2022,PG,87,['music'],['US'],6.5
+Paws of Fury: The Legend of Hank,MOVIE,2022,PG,98,"['western', 'comedy', 'animation', 'action', 'family']","['US', 'CN', 'GB']",5.7
+Snake Eyes: G.I. Joe Origins,MOVIE,2021,PG-13,121,"['action', 'thriller', 'crime', 'fantasy', 'scifi']","['US', 'CA', 'JP']",5.4
+The Lost City,MOVIE,2022,PG-13,112,"['comedy', 'action', 'romance']",['US'],6.1
+Party with Me,MOVIE,2021,PG-13,93,"['comedy', 'drama']",['US'],6.4
+Jerry & Marge Go Large,MOVIE,2022,PG-13,96,"['comedy', 'drama']",['US'],6.9
+Loves Spell,MOVIE,2020,PG-13,110,"['comedy', 'romance']",['GB'],5.4
+Beavis and Butt-Head Do the Universe,MOVIE,2022,PG-13,86,"['comedy', 'scifi', 'animation']",['US'],7
+"Whitney, a Look Back",MOVIE,2022,PG-13,60,['documentation'],['US'],6.5
+Console Wars,MOVIE,2020,PG-13,93,['documentation'],['US'],7
+Sir Alex Ferguson: Never Give In,MOVIE,2021,PG-13,108,['documentation'],"['US', 'GB']",8.1
+Top Gun: Maverick,MOVIE,2022,PG-13,131,"['drama', 'action']",['US'],8.3
+On the Come Up,MOVIE,2022,PG-13,115,"['drama', 'music', 'comedy']",['US'],5.7
+Respect,MOVIE,2021,PG-13,145,"['drama', 'music']","['US', 'CA']",6.6
+One of the Good Ones,MOVIE,2020,PG-13,80,"['drama', 'romance']",['US'],5
+Blacklight,MOVIE,2022,PG-13,104,"['drama', 'thriller', 'action']","['US', 'AU']",4.8
+The Marksman,MOVIE,2021,PG-13,108,"['drama', 'thriller', 'western', 'crime', 'action']",['US'],5.6
+Devotion,MOVIE,2022,PG-13,139,"['drama', 'war', 'action']",['US'],6.6
+Hal King,MOVIE,2021,PG-13,114,"['drama', 'war']",['US'],6.5
+Only People,MOVIE,2021,PG-13,88,['drama'],['CA'],5.3
+Moments in Spacetime,MOVIE,2020,PG-13,112,['drama'],['CA'],6.1
+Dog,MOVIE,2022,PG-13,101,"['fantasy', 'animation', 'action', 'family', 'comedy', 'drama']",['US'],6.5
+Cyrano,MOVIE,2022,PG-13,123,"['romance', 'drama']","['US', 'GB', 'CA']",6.4
+The In Between,MOVIE,2022,PG-13,116,"['scifi', 'drama', 'romance']",['US'],5.9
+Infinite,MOVIE,2021,PG-13,106,"['thriller', 'action', 'scifi']",['US'],5.4
+A Quiet Place Part II,MOVIE,2021,PG-13,97,"['thriller', 'horror', 'scifi', 'drama']",['US'],7.2
+Burning Kentucky,MOVIE,2020,PG-13,91,['thriller'],['US'],4.5
+Teen Wolf: The Movie,MOVIE,2023,R,140,"['action', 'fantasy', 'comedy', 'drama', 'romance', 'thriller']",['US'],5.6
+Run & Gun,MOVIE,2022,R,96,"['action', 'thriller']",['US'],5.1
+South Park the Streaming Wars,MOVIE,2022,R,49,"['animation', 'comedy']",['US'],6.7
+South Park: Post COVID: The Return of COVID,MOVIE,2021,R,62,"['animation', 'comedy']",['US'],7.6
+South Park: Post COVID,MOVIE,2021,R,59,"['comedy', 'animation']",['US'],7.5
+Licorice Pizza,MOVIE,2021,R,133,"['comedy', 'drama', 'romance']","['CA', 'US']",7.2
+How It Ends,MOVIE,2021,R,83,"['comedy', 'drama']",['US'],5.2
+The Space Between,MOVIE,2021,R,99,"['comedy', 'drama']",['US'],5.5
+Jackass Forever,MOVIE,2022,R,96,"['comedy', 'reality', 'documentation', 'action']",['US'],6.9
+Honor Society,MOVIE,2022,R,97,"['comedy', 'romance']",['US'],6.5
+At Midnight,MOVIE,2023,R,100,"['comedy', 'romance']","['US', 'MX']",5.5
+Reno 911!: The Hunt for QAnon,MOVIE,2021,R,85,['comedy'],['US'],5.6
+Breaking News in Yuba County,MOVIE,2021,R,96,"['crime', 'comedy', 'drama', 'thriller']",['US'],5.8
+Respite,MOVIE,2021,R,77,"['crime', 'drama', 'action']",['US'],4.5
+Gully,MOVIE,2021,R,81,"['crime', 'drama']",['US'],2.7
+Bring Your Own Brigade,MOVIE,2021,R,120,['documentation'],['US'],7.2
+Babylon,MOVIE,2022,R,189,"['drama', 'comedy', 'history']",['US'],7.3
+Black Bear,MOVIE,2020,R,104,"['drama', 'comedy', 'thriller']",['US'],6.5
+I Will Make You Mine,MOVIE,2020,R,80,"['drama', 'comedy']",['US'],5.8
+Three Months,MOVIE,2022,R,104,"['drama', 'comedy']",['US'],6.7
+House of Gucci,MOVIE,2021,R,158,"['drama', 'crime', 'history', 'thriller']","['US', 'CA', 'GB']",6.6
+Georgetown,MOVIE,2020,R,99,"['drama', 'crime']",['US'],6.2
+One Must Fall,MOVIE,2021,R,96,"['drama', 'horror', 'thriller', 'comedy', 'crime']",['US'],4.1
+Saint Maud,MOVIE,2020,R,83,"['drama', 'horror', 'thriller']",['GB'],6.7
+Undergods,MOVIE,2021,R,92,"['drama', 'scifi', 'thriller', 'fantasy']","['BE', 'EE', 'RS', 'SE', 'GB']",5.4
+The Way You Look Tonight,MOVIE,2020,R,85,"['fantasy', 'romance', 'drama']",['US'],5.8
+Devil's Workshop,MOVIE,2022,R,86,"['horror', 'drama']",['US'],4
+V for Vengeance,MOVIE,2022,R,86,"['horror', 'thriller', 'action']",['US'],3.6
+Orphan: First Kill,MOVIE,2022,R,99,"['horror', 'thriller', 'crime', 'drama']","['CA', 'US']",5.9
+Candyman,MOVIE,2021,R,91,"['horror', 'thriller', 'drama']","['CA', 'US']",5.9
+Paranormal Activity: Next of Kin,MOVIE,2021,R,98,"['horror', 'thriller']",['US'],5.2
+Scream,MOVIE,2022,R,114,"['horror', 'thriller']",['US'],6.3
+Smile,MOVIE,2022,R,115,"['horror', 'thriller']",['US'],6.6
+South Park: The 25th Anniversary Concert,MOVIE,2022,R,99,"['music', 'animation', 'comedy']",['US'],7.8
+I Hate the Man in My Basement,MOVIE,2020,R,103,"['romance', 'comedy', 'drama', 'thriller', 'crime']",['US'],5.7
+Wrath of Man,MOVIE,2021,R,119,"['thriller', 'action', 'crime', 'drama', 'comedy']","['GB', 'US']",7.1
+Flag Day,MOVIE,2021,R,108,"['thriller', 'drama', 'crime']","['US', 'GB']",5.4
+Torn Hearts,MOVIE,2022,R,97,"['thriller', 'drama', 'horror', 'music']",['US'],5.2
+Significant Other,MOVIE,2022,R,84,"['thriller', 'horror', 'drama', 'scifi']",['US'],5.7
+Dangerous Game: The Legacy Murders,MOVIE,2022,R,96,"['thriller', 'horror']","['US', 'CA']",4.4
+Heatwave,MOVIE,2022,R,100,"['thriller', 'romance']","['CA', 'US']",5
+The Equalizer,SHOW,2021,TV-14,41,"['action', 'drama', 'crime', 'thriller']",['US'],5.3
+Ghosts,SHOW,2021,TV-14,21,"['comedy', 'fantasy']",['US'],7.9
+Deliciousness,SHOW,2020,TV-14,21,"['comedy', 'reality']",['US'],4.2
+Tha God's Honest Truth with Charlamagne Tha God,SHOW,2021,TV-14,21,['comedy'],['US'],2.7
+Murderous History,SHOW,2021,TV-14,44,"['crime', 'documentation', 'history']",['GB'],7.7
+The FBI Declassified,SHOW,2020,TV-14,43,"['crime', 'documentation']",['US'],6.7
+FBI: International,SHOW,2021,TV-14,41,"['crime', 'drama', 'thriller', 'action']",['US'],6.4
+CSI: Vegas,SHOW,2021,TV-14,44,"['crime', 'drama']",['US'],7.5
+Ghislaine - Partner in Crime,SHOW,2022,TV-14,50,"['documentation', 'crime']",['US'],5.9
+Secrets Unlocked,SHOW,2020,TV-14,23,"['documentation', 'reality', 'history']",['US'],6.6
+Indivisible: Healing Hate,SHOW,2022,TV-14,51,"['documentation', 'war', 'crime', 'history']",['US'],4.3
+Curious Life and Death of ..,SHOW,2020,TV-14,44,['documentation'],['GB'],5.3
+FBI: Most Wanted,SHOW,2020,TV-14,42,"['drama', 'action', 'crime', 'thriller']",['US'],6.9
+NCIS: Hawai'i,SHOW,2021,TV-14,47,"['drama', 'action', 'crime']",['US'],6.5
+FBI True,SHOW,2023,TV-14,24,"['drama', 'documentation']",['US'],6.9
+Bosé,SHOW,2022,TV-14,49,"['drama', 'music']",['MX'],5.9
+Fire Country,SHOW,2022,TV-14,42,['drama'],['US'],7.2
+SkyMed,SHOW,2022,TV-14,43,['drama'],['CA'],6.3
+So Help Me Todd,SHOW,2022,TV-14,46,['drama'],['US'],7.4
+AwesomenessTV's Next Influencer,SHOW,2020,TV-14,27,['reality'],['US'],1.4
+VH1 Couples Retreat,SHOW,2021,TV-14,42,['reality'],['US'],5.7
+Star Trek: Lower Decks,SHOW,2020,TV-14,26,"['scifi', 'comedy', 'animation', 'action']",['US'],7.5
+Texas 6,SHOW,2020,TV-14,34,"['sport', 'documentation']",['US'],7.4
+Joe Pickett,SHOW,2021,TV-14,49,"['western', 'drama']",['US'],7.7
+Tyler Perry's Young Dylan,SHOW,2020,TV-G,22,"['action', 'comedy', 'family']",['US'],3
+An American Aristocrat's Guide to Great Estates,SHOW,2020,TV-G,51,"['documentation', 'history']",['US'],7.9
+Aerial Greece,SHOW,2021,TV-G,44,['documentation'],['US'],8.3
+That Girl Lay Lay,SHOW,2021,TV-G,24,"['family', 'comedy']",['US'],4.1
+NFL Slimetime,SHOW,2021,TV-G,21,"['family', 'sport']",['US'],5.3
+Halo,SHOW,2022,TV-MA,51,"['action', 'scifi', 'thriller', 'war']",['US'],7.1
+True Life Crime,SHOW,2020,TV-MA,42,"['documentation', 'crime', 'reality']",['US'],6.7
+Never Seen Again,SHOW,2022,TV-MA,25,"['documentation', 'drama']",['US'],7.5
+Sometimes When We Touch,SHOW,2023,TV-MA,48,"['documentation', 'history', 'music']",['US'],7.7
+Behind the Music,SHOW,2021,TV-MA,46,"['documentation', 'music']",['US'],8
+Disrupt & Dismantle with Soledad O'Brien,SHOW,2021,TV-MA,40,['documentation'],['US'],4.3
+From Cradle to Stage,SHOW,2021,TV-MA,47,['documentation'],['US'],8.7
+11 Minutes,SHOW,2022,TV-MA,49,['documentation'],['US'],7.7
+68 Whiskey,SHOW,2020,TV-MA,40,"['drama', 'comedy', 'war']",['US'],5.7
+Mayor of Kingstown,SHOW,2021,TV-MA,47,"['drama', 'crime', 'thriller']",['US'],8.2
+Tulsa King,SHOW,2022,TV-MA,38,"['drama', 'crime']",['US'],8.1
+Wolf Pack,SHOW,2023,TV-MA,50,"['drama', 'fantasy', 'horror', 'scifi']",['US'],6.2
+1883,SHOW,2021,TV-MA,56,"['drama', 'western']",['US'],8.7
+The Offer,SHOW,2022,TV-MA,59,['drama'],['US'],8.7
+The Envoys,SHOW,2021,TV-MA,46,"['horror', 'thriller', 'crime', 'fantasy', 'action', 'drama']",['MX'],7.2
+All Star Shore,SHOW,2022,TV-MA,44,['reality'],['US'],5.3
+Queen of the Universe,SHOW,2021,TV-MA,45,['reality'],['US'],7
+The Challenge: All Stars,SHOW,2021,TV-MA,45,['reality'],['US'],8.2
+The Game,SHOW,2021,TV-MA,34,"['romance', 'sport', 'comedy', 'drama']",['US'],6.2
+Star Trek: Picard,SHOW,2020,TV-MA,48,"['scifi', 'action', 'drama']",['US'],7.3
+1923,SHOW,2022,TV-MA,58,"['western', 'drama']",['US'],8.5
+SpongeBob As Told By,SHOW,2020,TV-PG,6,"['comedy', 'animation']",['US'],7.4
+SpongeBob DocuPants,SHOW,2020,TV-PG,13,"['comedy', 'documentation']",['US'],8.4
+iCarly,SHOW,2021,TV-PG,24,"['comedy', 'drama', 'romance', 'family']",['US'],6.6
+Tomb Hunters,SHOW,2021,TV-PG,44,"['documentation', 'history']",['US'],8
+A Greek Odyssey with Bettany Hughes,SHOW,2020,TV-PG,46,"['documentation', 'history']",['GB'],7.2
+World of Weapons,SHOW,2020,TV-PG,40,"['documentation', 'reality', 'history']",['GB'],4.6
+Wild Tales from the Farm,SHOW,2020,TV-PG,43,['documentation'],['US'],8.6
+Amazing Animal Friends,SHOW,2020,TV-PG,44,['documentation'],['US'],8.8
+Ice Airport Alaska,SHOW,2020,TV-PG,44,['documentation'],['US'],8.2
+Legends of the Pharaohs,SHOW,2021,TV-PG,44,['documentation'],['US'],8.5
+The Challenge: USA,SHOW,2022,TV-PG,49,"['reality', 'action', 'drama', 'sport']",['US'],6.7
+Searching for Secrets,SHOW,2021,TV-PG,44,"['reality', 'documentation']",['CA'],8.8
+Come Dance with Me,SHOW,2022,TV-PG,51,"['reality', 'family']",['US'],7.2
+The Real Love Boat,SHOW,2022,TV-PG,44,"['reality', 'romance']",['US'],4.5
+Tough As Nails,SHOW,2020,TV-PG,45,['reality'],['US'],6.4
+Star Trek: Strange New Worlds,SHOW,2022,TV-PG,53,"['scifi', 'action']",['US'],8.2
+Santiago of the Seas,SHOW,2020,TV-Y,21,"['action', 'family', 'fantasy', 'animation']",['US'],6.8
+Baby Shark's Big Show!,SHOW,2020,TV-Y,16,"['comedy', 'family', 'fantasy', 'animation']","['KR', 'US']",2.8
+Deer Squad,SHOW,2020,TV-Y,23,"['comedy', 'family', 'scifi', 'fantasy', 'animation']","['US', 'CN', 'GB']",6.1
+Star Trek: Prodigy,SHOW,2021,TV-Y7,24,"['action', 'comedy', 'drama', 'family', 'scifi', 'animation']",['US'],7.3
+It's Pony,SHOW,2020,TV-Y7,18,"['animation', 'comedy', 'family', 'action', 'thriller']",['GB'],6.5
+Rugrats,SHOW,2021,TV-Y7,18,"['animation', 'comedy', 'family', 'fantasy']",['US'],4.1
+Big Nate,SHOW,2022,TV-Y7,22,"['animation', 'comedy', 'family']",['US'],7.2
+Transformers: Earthspark,SHOW,2022,TV-Y7,30,"['comedy', 'drama', 'family', 'scifi', 'animation', 'action']",['US'],6.2
+Kamp Koral: SpongeBob's Under Years,SHOW,2021,TV-Y7,16,"['comedy', 'family', 'horror', 'crime', 'fantasy', 'animation']",['US'],3.6
+Danger Force,SHOW,2020,TV-Y7,24,"['comedy', 'family', 'scifi', 'action']",['US'],3.6
+Rag Doll,MOVIE,2020,,103,"['action', 'drama', 'animation']",['US'],5.2
+Natural Vice,MOVIE,2022,,81,['action'],['US'],4.1
+Her Name Was Jo,MOVIE,2022,,104,['action'],['US'],5.7
+Reindeer in Here,MOVIE,2022,,42,"['animation', 'comedy', 'family']",['US'],5.8
+Blue's Big City Adventure,MOVIE,2022,,74,"['animation', 'comedy', 'family']",['US'],6.3
+PAW Patrol: Jet to the Rescue,MOVIE,2020,,56,"['animation', 'family', 'scifi']","['CA', 'US']",5.5
+More Than I Want to Remember,MOVIE,2022,,14,['animation'],['US'],7.2
+Coded: The Hidden Love of J.C. Leyendecker,MOVIE,2021,,28,['animation'],['US'],7.4
+A Loud House Christmas,MOVIE,2021,,64,"['comedy', 'animation', 'family']",['US'],4.3
+Say Your Prayers,MOVIE,2020,,84,"['comedy', 'crime', 'drama', 'thriller']","['GB', 'US']",5.3
+Chasing Molly,MOVIE,2020,,80,"['comedy', 'crime']",['US'],4.2
+Cecilia,SHOW,2021,,38,"['comedy', 'drama', 'romance']",['MX'],6.8
+Looks That Kill,MOVIE,2020,,92,"['comedy', 'drama', 'romance']",['US'],6.3
+Bad Therapy,MOVIE,2020,,98,"['comedy', 'drama', 'romance']",['US'],4.4
+Before/During/After,MOVIE,2020,,82,"['comedy', 'drama']",['US'],5.2
+Big House,MOVIE,2020,,84,"['comedy', 'drama']",['US'],5.2
+Don't Read This on a Plane,MOVIE,2021,,93,"['comedy', 'drama']","['GR', 'DE', 'FR', 'IT', 'PT', 'RO', 'NL', 'AU', 'HU']",5.2
+Lucky,MOVIE,2020,,90,"['comedy', 'european']",['FR'],4.6
+Fantasy Football,MOVIE,2022,,98,"['comedy', 'family', 'sport', 'action', 'fantasy']",['US'],5.8
+Snow Day,MOVIE,2022,,77,"['comedy', 'family']",['US'],4.2
+Can't Kill This,MOVIE,2020,,81,"['comedy', 'fantasy', 'horror']","['IT', 'FR']",4.1
+Revenge Prank with DJ Pauly D & Vinny,SHOW,2020,,21,"['comedy', 'reality']",['US'],5.6
+Still Today,MOVIE,2020,,82,"['comedy', 'romance']",['US'],5.6
+Vanilla,MOVIE,2020,,87,"['comedy', 'romance']",['US'],5.6
+Jeff Dunham's Completely Unrehearsed Last-Minute Pandemic Holiday Special,MOVIE,2020,,44,['comedy'],['US'],7
+Sam Morril: I Got This,MOVIE,2020,,47,['comedy'],['US'],7.8
+Joe List: I Hate Myself,MOVIE,2020,,56,['comedy'],['US'],7.4
+Michael Kosta: Detroit NY LA,MOVIE,2020,,58,['comedy'],['US'],6.8
+Josh Johnson: # (Hashtag),MOVIE,2021,,60,['comedy'],['US'],5.5
+Roy Wood Jr.: Imperfect Messenger,MOVIE,2021,,64,['comedy'],['US'],7.2
+Derek's Dead,MOVIE,2020,,73,['comedy'],['US'],4.9
+Out of Order,MOVIE,2020,,76,['comedy'],['US'],7.3
+Amy and Peter Are Getting Divorced,MOVIE,2021,,86,['comedy'],['US'],4.4
+7 Days to Vegas,MOVIE,2020,,92,['comedy'],['US'],5.7
+The Bet,MOVIE,2020,,101,['comedy'],['US'],4
+Getting to Know You,MOVIE,2020,,103,['comedy'],"['CA', 'GB']",6.1
+All About Who You Know,MOVIE,2020,,111,['comedy'],['CA'],4.8
+Mags and Julie Go on a Road Trip.,MOVIE,2020,,116,['comedy'],['US'],4.1
+Funny Face,MOVIE,2021,,95,"['crime', 'drama', 'romance', 'thriller']",['US'],5.2
+Isolani,MOVIE,2021,,107,"['crime', 'drama', 'thriller']",['GB'],7.1
+Parot,SHOW,2021,,64,"['crime', 'thriller', 'war', 'drama']",['ES'],5.4
+Patrice O'Neal: Killing Is Easy,MOVIE,2021,,91,"['documentation', 'comedy']",['US'],7.8
+Beautiful Something Left Behind,MOVIE,2021,,87,"['documentation', 'european']",['DK'],7.4
+Battle of Little Bighorn,MOVIE,2020,,51,"['documentation', 'history', 'action', 'war', 'western']",['US'],6.2
+Clive Davis: Most Iconic Performances,SHOW,2022,,43,"['documentation', 'music']",['US'],8
+The Marfa Tapes,MOVIE,2022,,58,"['documentation', 'music']",['US'],5.8
+The End of the Storm,MOVIE,2020,,99,"['documentation', 'sport']",['GB'],7.7
+The Only,MOVIE,2022,,102,"['documentation', 'sport']",['US'],7.2
+100 Missions Surviving Vietnam,MOVIE,2020,,44,"['documentation', 'war', 'history']",['US'],7
+Lynching Postcards: Token of a Great Day,MOVIE,2021,,15,['documentation'],['US'],7.6
+Sampled,SHOW,2022,,21,['documentation'],['US'],5.6
+Madame X Presents: Madame Xtra Q&A,MOVIE,2021,,36,['documentation'],['US'],6.9
+Into the Puma Triangle,MOVIE,2020,,43,['documentation'],['US'],7.2
+COVID: Our Lockdown In Shanghai (TV),MOVIE,2020,,44,['documentation'],['US'],6.1
+Iceland's Fire and Ice,MOVIE,2020,,44,['documentation'],['US'],7.4
+Walk Against Fear: James Meredith,MOVIE,2020,,44,['documentation'],['US'],6.4
+Making Tracks on Mars,MOVIE,2021,,44,['documentation'],['US'],7.8
+Cher & the Loneliest Elephant,MOVIE,2021,,46,['documentation'],"['US', 'KH', 'PK', 'GB']",7.8
+Murder of God's Banker,SHOW,2022,,47,['documentation'],['FR'],9.3
+America's Wild Borders,MOVIE,2020,,50,['documentation'],['CA'],7.3
+Black in Space: Breaking the Color Barrier,MOVIE,2020,,51,['documentation'],['US'],6.6
+The 26th Street Garage: The FBI's Untold Story of 9/11,MOVIE,2021,,58,['documentation'],['US'],6.1
+Each and Every Day,MOVIE,2021,,60,['documentation'],['US'],5.9
+Made in Senegal,MOVIE,2020,,72,['documentation'],['DE'],7.2
+Call Your Mother,MOVIE,2020,,73,['documentation'],['US'],6.6
+Going to Pot: The High and Low of It,MOVIE,2021,,73,['documentation'],['US'],6.5
+Secrets of the Oligarch Wives,MOVIE,2022,,83,['documentation'],['US'],6.7
+Art & Krimes by Krimes,MOVIE,2022,,84,['documentation'],['US'],7.9
+Fiddler's Journey to the Big Screen,MOVIE,2022,,88,['documentation'],['US'],7.7
+The Loyola Project,MOVIE,2022,,88,['documentation'],['US'],8
+Race Against Time: The CIA and 9/11,MOVIE,2021,,89,['documentation'],['US'],5
+Sabaya,MOVIE,2021,,90,['documentation'],['SE'],7.1
+Woman in Motion,MOVIE,2021,,96,['documentation'],['US'],8.7
+Finding Yingying,MOVIE,2020,,97,['documentation'],['US'],7.2
+Ascension,MOVIE,2021,,97,['documentation'],"['US', 'CN']",7
+Sing Me a Song,MOVIE,2020,,99,['documentation'],"['CH', 'FR', 'DE']",6.9
+Last Flight Home,MOVIE,2022,,101,['documentation'],['US'],7
+Rook.,MOVIE,2020,,69,"['drama', 'comedy', 'european', 'crime']",['CH'],4.1
+I've Got Issues,MOVIE,2020,,90,"['drama', 'comedy']",['US'],3.9
+Go Back to China,MOVIE,2020,,95,"['drama', 'comedy']","['CN', 'US']",6
+King of Knives,MOVIE,2020,,95,"['drama', 'comedy']",['US'],4.9
+Braking for Whales,MOVIE,2020,,103,"['drama', 'comedy']",['US'],4.9
+22 Chaser,MOVIE,2021,,95,"['drama', 'crime']",['CA'],5.4
+Mother's Little Helpers,MOVIE,2020,,99,"['drama', 'family', 'music', 'comedy']",['US'],5.3
+A Feral World,MOVIE,2020,,105,"['drama', 'horror', 'scifi']",['US'],4
+Murder Bury Win,MOVIE,2020,,90,"['drama', 'horror', 'thriller', 'fantasy', 'comedy', 'crime']",['US'],5.4
+"Summer Days, Summer Nights",MOVIE,2021,,124,"['drama', 'romance']",['US'],6.2
+After We Leave,MOVIE,2020,,82,"['drama', 'scifi']",['US'],4.3
+Nathan's Kingdom,MOVIE,2020,,93,"['drama', 'scifi']",['US'],5.5
+Giants Being Lonely,MOVIE,2021,,81,"['drama', 'sport']",['US'],5.2
+By Any Means,MOVIE,2020,,84,"['drama', 'thriller', 'crime']",['BM'],5.2
+All Roads to Pearla,MOVIE,2020,,108,"['drama', 'thriller', 'crime']",['US'],4.8
+My True Fairytale,MOVIE,2021,,86,"['drama', 'thriller']",['US'],5.8
+The Ballad Of Billy McCrae,MOVIE,2021,,91,"['drama', 'thriller']",['GB'],5.3
+Días mejores,SHOW,2022,,49,['drama'],['ES'],7.8
+The Rest of Us,MOVIE,2020,,80,['drama'],['CA'],6.3
+Florrie,MOVIE,2021,,80,['drama'],['CA'],5.2
+Iceland is Best,MOVIE,2020,,89,['drama'],['US'],3.8
+The Florist,MOVIE,2021,,90,['drama'],['US'],3.7
+Two Ways Home,MOVIE,2020,,92,['drama'],['US'],6.9
+Blush,MOVIE,2020,,101,['drama'],['US'],4.9
+Hearts and Bones,MOVIE,2020,,111,['drama'],['AU'],6.6
+Monster High: The Movie,MOVIE,2022,,91,"['fantasy', 'comedy', 'action', 'music', 'family', 'scifi']","['US', 'CA']",4.9
+I Wrote This for You,MOVIE,2020,,94,"['fantasy', 'comedy', 'drama']",['US'],5.6
+Trail of Ashes,MOVIE,2020,,98,"['fantasy', 'thriller']",['PR'],3.5
+Unhuman,MOVIE,2022,,87,"['horror', 'comedy', 'thriller']",['US'],4.4
+Becoming,MOVIE,2020,,98,"['horror', 'drama', 'thriller', 'scifi']",['US'],4.8
+Attack of the Unknown,MOVIE,2020,,103,"['horror', 'thriller', 'action', 'scifi']",['US'],3.4
+Cruiser,MOVIE,2020,,73,"['horror', 'thriller', 'drama']",['US'],5
+The Deep House,MOVIE,2021,,85,"['horror', 'thriller', 'drama']","['FR', 'BE']",5.4
+The Visitor,MOVIE,2022,,89,"['horror', 'thriller', 'drama']",['US'],4.2
+A House on the Bayou,MOVIE,2021,,88,"['horror', 'thriller']",['US'],5.5
+Psychopomp,MOVIE,2020,,92,"['horror', 'thriller']",['US'],4.5
+Don't Click,MOVIE,2020,,80,['horror'],['CA'],2.8
+The All-Star Nickmas Spectacular,MOVIE,2020,,42,"['music', 'comedy']",['US'],7.1
+Oasis: Knebworth 1996,MOVIE,2021,,110,"['music', 'documentation']","['US', 'GB']",8
+Madonna - Madame X,MOVIE,2021,,116,"['music', 'documentation']",['US'],6.8
+Taylor Hawkins Tribute Concert,MOVIE,2022,,353,['music'],['GB'],8.7
+Hip Hop My House,SHOW,2022,,21,['reality'],['US'],6.9
+The Challenge Australia,SHOW,2022,,42,['reality'],['AU'],7
+Lingo,SHOW,2023,,42,['reality'],['US'],5.7
+Secret Celebrity Renovation,SHOW,2021,,43,['reality'],['US'],5.3
+Rio Shore,SHOW,2021,,54,['reality'],['BR'],7.7
+This Is Christmas,MOVIE,2022,,106,"['romance', 'comedy', 'drama']",['GB'],6.9
+Blowing Up Right Now,MOVIE,2020,,82,"['romance', 'comedy']",['US'],4.7
+Dimland,MOVIE,2021,,75,"['romance', 'scifi', 'fantasy']",['US'],5.2
+The Stand,SHOW,2020,,57,"['scifi', 'drama', 'horror', 'thriller', 'fantasy']",['US'],5.6
+Implanted,MOVIE,2021,,96,"['scifi', 'thriller', 'drama']",['US'],4.6
+One and the Same,MOVIE,2021,,110,['scifi'],['US'],4.3
+Last Three Days,MOVIE,2020,,87,"['thriller', 'action', 'crime']",['US'],3.6
+Insight,MOVIE,2021,,73,"['thriller', 'action', 'scifi', 'drama', 'crime']",['US'],4.5
+American Refugee,MOVIE,2021,,95,"['thriller', 'horror', 'drama', 'crime']",['US'],4.2
+The Arbors,MOVIE,2021,,116,"['thriller', 'horror', 'scifi', 'drama']",['US'],4.1
+Infinitum: Subject Unknown,MOVIE,2021,,86,"['thriller', 'scifi']",['GB'],4.1
+"Goodbye, Butterfly",MOVIE,2021,,98,['thriller'],['US'],4.8
